@@ -111,7 +111,7 @@ This type of analysis is core to **SaaS companies, startups, and subscription-ba
 ## 🎓 Internship Details
 
 - **Program:** FutureInterns Data Science & Analytics Internship
-- **Task:** Task 2 — Customer Retention & Churn Analysis
+- **Task:** Task 2 - Customer Retention & Churn Analysis
 - **Skills Demonstrated:** Churn analysis, cohort segmentation, KPI dashboards, retention strategy, business storytelling
 
 ---
